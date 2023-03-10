@@ -1,0 +1,2 @@
+8 epochs - learning rate reduced by factor of 10
+83% accuracy - shit performace

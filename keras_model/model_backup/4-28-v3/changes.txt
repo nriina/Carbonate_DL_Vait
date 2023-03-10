@@ -1,0 +1,1 @@
+changed the test train spit from 25/75 to 20/80

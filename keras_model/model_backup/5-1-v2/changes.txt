@@ -1,0 +1,3 @@
+0.0001 learning rate; 2 epochs; 1.93 million points; 84.9% acc
+BEST SO FAR
+all but the second dataset trained on 

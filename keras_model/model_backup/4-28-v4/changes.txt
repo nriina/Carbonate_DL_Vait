@@ -1,0 +1,1 @@
+Reduced learning rate by a factor of 10
